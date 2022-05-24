@@ -49,14 +49,18 @@ int main() {
                        person.identity,
                        person.department);
 
-            if(cardManager.consumeCheck(card.getId())) {
-                if(car1.getPerson() < car1.getMaxPeopleNumber()){
+            if(car1.getPerson() < car1.getMaxPeopleNumber()){
+                if(cardManager.consumeCheck(card.getId())) {
                     car1.addPerson();
                 }
-                else if(car2.getPerson() < car2.getMaxPeopleNumber()) {
+            }
+            else if(car2.getPerson() < car2.getMaxPeopleNumber()) {
+                if(cardManager.consumeCheck(card.getId())) {
                     car2.addPerson();
                 }
+
             }
+
         }
 
         TimeManager::getInstance()->nextHour();

@@ -1,3 +1,3 @@
-/home/littlechai/University/OOP/OneCardSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/littlechai/University/OOP/OneCardSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/littlechai/University/OOP/OneCardSystem/cmake-build-debug/CMakeFiles/OneCardSystem.dir
+C:/Users/16117/Desktop/OneCardSystem/OneCardSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/16117/Desktop/OneCardSystem/OneCardSystem/cmake-build-debug/CMakeFiles/OneCardSystem.dir
+C:/Users/16117/Desktop/OneCardSystem/OneCardSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
